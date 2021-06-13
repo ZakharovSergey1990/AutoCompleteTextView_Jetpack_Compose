@@ -1,2 +1,2 @@
 # AutoCompleteTextView_Jetpack_Compose
-Sample realisation AutoCompleteTextView with Jetpack Compose
+Sample realisation of AutoCompleteTextView with Jetpack Compose
